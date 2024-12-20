@@ -6,4 +6,4 @@ I am a software engineer with a lot of years experience in the architecture, des
 projects which I will share with the world.
 
 ## Projects
-1. An AI Chat demo -- A demonstration of a simple AI chatting system implemented with Spring Boot
+1. SimpleAI -- A demonstration of a simple AI chatting system implemented with Spring Boot
